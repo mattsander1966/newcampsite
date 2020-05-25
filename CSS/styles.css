@@ -51,3 +51,8 @@ footer {
   min-height: 100%;
   height: auto;
 }
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
